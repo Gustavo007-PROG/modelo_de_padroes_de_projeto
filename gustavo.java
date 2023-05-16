@@ -27,8 +27,6 @@ public class Janela {
 
  
 
-[20:19] GUILHERME RODRIGUES JORDAO DOS SANTOS
-
 package exemplo;
 
  
